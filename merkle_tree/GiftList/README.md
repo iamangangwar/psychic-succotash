@@ -26,7 +26,7 @@ There are a few files in utils:
 - The `verifyProof.js` should also look familiar. This was the last stage in the module. You can use this function to prove a name is in the merkle root, as show in the example.
 
 ## To Run
-# Frontend
+### Frontend
 Run command `npm run dev` in `merkle_tree/GiftList/client/merkle-client`
-# Backend
+### Backend
 Run command `node index.js` in `merkle_tree/GiftList/server`
