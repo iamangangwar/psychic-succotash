@@ -1,0 +1,15 @@
+{
+  "name": "code_a_txn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "txn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.2.3",
+    "dotenv": "^16.0.3"
+  }
+}
